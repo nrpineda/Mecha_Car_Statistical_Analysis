@@ -66,9 +66,10 @@ That is why our data-analysis team designed the following statistical study. We 
 The common vehicle type in the United States is a Sedan. For this project, and for all of our purposes we will collect the data of Sedans across multiple competitors such as Toyota Camry, Chevrolet Impala, and Honda Accord.
 
 Some of the metrics that we required data for are:
-Cost
-Highway fuel efficiency
-Horsepower 
+
+###Cost
+###Highway fuel efficiency
+###Horsepower 
 
 These are some of the main points of interest for the consumer when planning on purchasing a car. With the results from this study we will also like to create a better sense of the car market trend as we compare the competition's investment for their own vehicles in each one of these metrics. 
 
