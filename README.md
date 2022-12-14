@@ -4,7 +4,7 @@
 
 MechaCar is AutosRUs' newest prototype! - 
 
-Based on retrospective analysis through historical data, we will provide insights to the production and manufacturing teams about our newest prototype.
+We will provide insights to the production and manufacturing teams about our newest prototype.
 
 We began the study with the test results for 50 prototypes for the MechaCars models. The specific factors taken into the design of the prototypes were: vehicle length, vehicle weight, spoiler angle, drivetrain, and ground clearance; with the objective of knowing which of all these factors affects the MPG of the prototype the most.
 
