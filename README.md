@@ -55,5 +55,5 @@ Furthermore, the p-value for Lot 1, Lot 2, and Lot 3, are shown as it follows:
 ![T Test Lot3](https://user-images.githubusercontent.com/111472338/207543491-cf291789-8935-49ff-a696-00b5928d663c.png)
 
 From these results, we can say that Lot 1, and Lot 2 fail to reject the null hypothesis as they have p-values of 1, and 0.60 respectively. This means we retain the null hypothesis and reject the alternative hypothesis in these two cases. 
-However, Lot 3 shows a p-value of 0.04, and indicates strong evidence against the null hypothesis, as there is less than a 5% probability that the null hypothesis is correct (and the results are random, or that there is no statistical significant in between the means of PSI for manufacturing lots in total and population of 1500.
+However, Lot 3 shows a p-value of 0.04, and indicates strong evidence against the null hypothesis, as there is less than a 5% probability that the null hypothesis is correct (and the results are random, or that there is no statistical significant in between the means of PSI for manufacturing lots in total and population of 1500).
 
