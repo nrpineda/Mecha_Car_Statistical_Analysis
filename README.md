@@ -33,3 +33,27 @@ To answer the above question, we performed calculations for individual lots and 
 ![Lot_Summary](https://user-images.githubusercontent.com/111472338/207530287-1b10a598-5c16-4d76-aa60-06487e56c63b.png)
 
 The first table contains the results for all manufacturing lots in total, and we can say that together they meet the design specifications, as they do not exceed the maximum 100 pounds per square inch, with a variance of 62 for PSI. However, when we performed calculations for each lot, as shown in the second table, the results show that Lot 1, and Lot 2 meet the requirements in the design specifications with a variance of approximately 0.9 and 7.5 respectively; while Lot 3 exceeds the limit amount of 100 PSI, with a value of approximately 170.3. Without the individual analysis a whole lot of the MechaCar models could have been manufactured, failing the design requirements and costing the company a significant amount of money.
+
+## T-Tests on Suspension Coils
+
+With the use of T-tests we determined whether there is a statistical difference between the mean of individual and manufacturing lots as a whole, from the mean of the population that is 1500 PSI.
+
+Our NULL Hypothesis is that There is no statistical difference between the mean pounds per square inch of individual and manufacturing lots in total, and the population mean of 1,500 pounds per square inch.
+
+Our Alternate Hypothesis is that There is a statistical difference between the mean PSI of all manufacturing lots and population mean of 1,500 PSI.
+
+The significance value considered in this test is 0.05.  The following results show that in all the manufacturing lots the p-value is 0.06. Since our p-value is greater than 0.05, it indicates a strong evidence for the null hypothesis. It means that the deviation from the null hypothesis is not statistically significant, and the null hypothesis is not rejected.  Therefore, there is no statistical difference between the mean PSI of all manufacturing lots, and the population mean of 1500 PSI
+
+![T Test1](https://user-images.githubusercontent.com/111472338/207543419-68304611-f157-4702-baa0-f165c6bfc551.png)
+
+Furthermore, the p-value for Lot 1, Lot 2, and Lot 3, are shown as it follows: 
+
+![T Test Lot1](https://user-images.githubusercontent.com/111472338/207543446-d6601168-0ce4-43e1-8735-8b8b15a29085.png)
+
+![T Test Lot2](https://user-images.githubusercontent.com/111472338/207543459-b642e211-36c6-4793-b521-113d7954419a.png)
+
+![T Test Lot3](https://user-images.githubusercontent.com/111472338/207543491-cf291789-8935-49ff-a696-00b5928d663c.png)
+
+From these results, we can say that Lot 1, and Lot 2 fail to reject the null hypothesis as they have p-values of 1, and 0.60 respectively. This means we retain the null hypothesis and reject the alternative hypothesis in these two cases. 
+However, Lot 3 shows a p-value of 0.04, and indicates strong evidence against the null hypothesis, as there is less than a 5% probability that the null hypothesis is correct (and the results are random, or that there is no statistical significant in between the means of PSI for manufacturing lots in total and population of 1500.
+
