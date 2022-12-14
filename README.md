@@ -32,7 +32,4 @@ To answer the above question, we performed calculations for individual lots and 
 
 ![Lot_Summary](https://user-images.githubusercontent.com/111472338/207530287-1b10a598-5c16-4d76-aa60-06487e56c63b.png)
 
-
-The first table contains the results for all manufacturing lots in total, and we can say that together they meet the design specifications, as they do not exceed 100 pounds per square inch; the variance for PSI is of 62.
-
-In the second table, the results show that Lot 1, and Lot 2 meet the requirements in the design specifications with a variance of approximately 0.9 and 7.5 respectively; while Lot 3 exceeds the limit amount of 100 PSI, with a value of approximately 170.3.
+The first table contains the results for all manufacturing lots in total, and we can say that together they meet the design specifications, as they do not exceed the maximum 100 pounds per square inch, with a variance of 62 for PSI. However, when we performed calculations for each lot, as shown in the second table, the results show that Lot 1, and Lot 2 meet the requirements in the design specifications with a variance of approximately 0.9 and 7.5 respectively; while Lot 3 exceeds the limit amount of 100 PSI, with a value of approximately 170.3. Without the individual analysis a whole lot of the MechaCar models could have been manufactured, failing the design requirements and costing the company a significant amount of money.
