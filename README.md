@@ -18,7 +18,7 @@ Which of the specific factors taken into the design and manufacturing of the Mec
 
 The Intercept value is also significant at 0.001, meaning that there are unavailable factors in the dataset that also affect the MPG value of the prototype. Moreover, the slope of the linear model is not considered to be zero because of its significant relationship between the two independent variables ( vehicle length and ground clearance) and the dependent variable (mpg). 
 
-We can also answer if “the linear model predicts the mpg of MechaCar prototypes effectively?” Based on the Multiple R-squared value (0.7149) the model predicts the mileage-per-gallon of the MechaCar effectively at a 71% rate; however, is important to keep present that there are more factors not included in the dataset provided that can be used to better the results of this prediction.
+We can also answer if “the linear model predicts the mpg of MechaCar prototypes effectively?” Based on the Multiple R-squared value (0.7149) the model predicts the mileage-per-gallon of the MechaCar effectively at a 71% rate; however, is important to keep in mind that there are more factors not included in the dataset provided that can be used to better the results of this prediction.
 
 ## Summary Statistics on Suspension Coil
 
