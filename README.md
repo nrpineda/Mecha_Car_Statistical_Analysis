@@ -57,3 +57,23 @@ Furthermore, the p-value for Lot 1, Lot 2, and Lot 3, are shown as it follows:
 From these results, we can say that Lot 1, and Lot 2 fail to reject the null hypothesis as they have p-values of 1, and 0.60 respectively. This means we retain the null hypothesis and reject the alternative hypothesis in these two cases. 
 However, Lot 3 shows a p-value of 0.04, and indicates strong evidence against the null hypothesis, as there is less than a 5% probability that the null hypothesis is correct (and the results are random, or that there is no statistical significant in between the means of PSI for manufacturing lots in total and population of 1500).
 
+## Study Design: MechaCar vs Competition
+
+MechaCar wants to exceed in performance when compared against any other vehicle belonging to the competition. 
+
+That is why our data-analysis team designed the following statistical study. We would like to collect the data that can best represent a performance dashboard, which in part will be beneficial for the digital marketing teams and the production teams of the company.  
+
+The common vehicle type in the United States is a Sedan. For this project, and for all of our purposes we will collect the data of Sedans across multiple competitors such as Toyota Camry, Chevrolet Impala, and Honda Accord.
+
+Some of the metrics that we required data for are:
+Cost
+Highway fuel efficiency
+Horsepower 
+
+These are some of the main points of interest for the consumer when planning on purchasing a car. With the results from this study we will also like to create a better sense of the car market trend as we compare the competition's investment for their own vehicles in each one of these metrics. 
+
+For each of these dependent variables we will use one dependent variable which is manufacturing cost,and will use regression analysis to perform each comparison. With retrospective analysis we will interpret and analyze previously generated datasets, making this study cost-effective without upfront cost to generate data and statistical results. 
+
+We will focus on generating questions that can respond whether two groups are statistically different from each other (using a t-test with one independent variable and one continuous dependent variable obtained within the data.
+
+
