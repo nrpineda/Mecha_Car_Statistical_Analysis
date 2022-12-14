@@ -71,7 +71,7 @@ Some of the metrics that we required data for are:
 ##### Highway Fuel Efficiency 
 ##### Horsepower
 
-These are some of the main points of interest for the consumer when planning on purchasing a car. With the results from this study we will also like to create a better sense of the car market trend as we compare the competition's investment for their own vehicles in each one of these metrics. 
+These are some of the main points of interest for the consumer when planning on purchasing a car. With the results from this study we will also like to create a better sense of the car market trend as we compare the competition's performance and investment for their own vehicles in each one of these metrics. 
 
 For each of these dependent variables we will use one dependent variable which is manufacturing cost,and will use regression analysis to perform each comparison. With retrospective analysis we will interpret and analyze previously generated datasets, making this study cost-effective without upfront cost to generate data and statistical results. 
 
